@@ -32,4 +32,4 @@ Henrique Campos Silva
 
 ## 📸 Preview do Dashboard
 
-https://github.com/henriquesilva0410/Superstore-Dashboard/blob/main/Captura%20de%20Tela%20(6).png?raw=true
+![Dashboard Preview](https://github.com/henriquesilva0410/Superstore-Dashboard/blob/main/Captura%20de%20Tela%20(6).png?raw=true)
